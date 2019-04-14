@@ -1,0 +1,4 @@
+venv
+*.db
+node_modules
+migrations
