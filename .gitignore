@@ -2,3 +2,4 @@ venv
 *.db
 node_modules
 migrations
+backend/app/__pycache__/
